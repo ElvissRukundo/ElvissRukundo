@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elvis Rukundo
 - 👀 I’m interested in building online solutions
-- I'm profiecient in Javascript, PHP, MySQL, CSS, Bootstrap, HTML
+- My skills Kotlin | Ktor | Javascript | PHP | MySQL | NodeJS | ExpressJS | ReactJS | Git |Bootstrap | HTML5 | CSS3 | Restful APIs | Database Management | Frontend | Backend  
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on as many projects as possible
 - 📫 How to reach me
